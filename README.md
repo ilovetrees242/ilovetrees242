@@ -1,16 +1,14 @@
-## Hi there 👋
+# About
+I am a person who is trying to make something big. I have made a package manager, built LFS and built a custom 8 bit computer
+I do code because code cool and fun
 
-<!--
-**ilovetrees242/ilovetrees242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech stack
+* Intermediate in C
+* Below advanced in bash
+* HTML and CSS
+* Advanced Linux
+* Beginner git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacting
+* rblox0213 ( Discord username )
+* riyrty594@gmail.com ( Email )
